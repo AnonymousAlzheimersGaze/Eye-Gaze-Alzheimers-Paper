@@ -1,3 +1,3 @@
 # Eye-Gaze-Alzheimers-Paper
 
-![Explanation of dataframe](https://myoctocat.com/assets/images/Explanation of Dataframe.pdf)
+![Explanation of dataframe](images/Explanation of Dataframe.pdf)
