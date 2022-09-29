@@ -1,3 +1,3 @@
 # Eye-Gaze-Alzheimers-Paper
 
-![Explanation of dataframe](images/Explanation of Dataframe.pdf)
+![Explanation of dataframe](https://github.com/AnonymousAlzheimersGaze/Eye-Gaze-Alzheimers-Paper/blob/main/Explanation of Dataframe.pdf?raw=true)
