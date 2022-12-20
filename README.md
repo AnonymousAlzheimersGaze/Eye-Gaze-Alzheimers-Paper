@@ -1,6 +1,6 @@
 # Generating Attention Maps from Eye-gaze for the Diagnosis of Alzheimer's Disease
 
-Scans data: scans visualization and their metadata
+Scans data: code to generate scans visualization and their metadata
 
 Attention Maps Generation: creation of the attention maps from fixation points
 
