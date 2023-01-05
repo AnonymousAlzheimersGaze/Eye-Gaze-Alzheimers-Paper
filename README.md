@@ -2,6 +2,9 @@
 
 If you want to use our code please cite the paper ["Generating Attention Maps from Eye-gaze for the Diagnosis of Alzheimer's Disease"](https://openreview.net/forum?id=yL1qcv2Q0bC) 
 
+-------------
+# Folders
+
 Scans data: code to generate scans visualization and their metadata
 
 Attention Maps Generation: creation of the attention maps from fixation points
