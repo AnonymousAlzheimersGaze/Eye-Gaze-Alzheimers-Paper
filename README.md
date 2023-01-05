@@ -19,7 +19,9 @@ images: diagrams of this ReadMe file
 
 -----------
 
-allData.pkl - A Pandas dataframe contains data of each scan, including the fixation points and their duration. (It's the union of nc_allData.pkl with mci_allData.pkl and ad_allData.pkl)
+# Dataset
+
+allData.pkl - A Pandas dataframe contains data of each scan, including the fixation points and their duration. (It's the union of nc_allData.pkl with mci_allData.pkl and ad_allData.pkl). The scans are excluded.
 
 ![Explanation of dataframe](https://github.com/AnonymousAlzheimersGaze/Eye-Gaze-Alzheimers-Paper/blob/main/images/Explanation_Dataframe.png)
 
